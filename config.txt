@@ -3,4 +3,4 @@ prefix=!
 game= Deku Gang ,❄
 stayinchannel=true
 songinstatus=false
-token=NTkzOTIyNTE5MzQyNTE0MTg3.XRU8gw.RQ-7-VcX0aJmd-lY--XDYdeMdg0
+token=NTkzOTIyNTE5MzQyNTE0MTg3.XRU_nw.tDLkYCeBU8zPA2fCamS_uXMCDZA
