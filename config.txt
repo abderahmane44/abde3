@@ -1,6 +1,6 @@
 owner=449996194270281754
-prefix=-
-game= TyPe | -play
+prefix=!
+game= Deku Gang ,❄
 stayinchannel=true
 songinstatus=false
-token=NTU3OTUzMDU4MjAyNTgzMDYw.D3P0NQ.8bmDZ7AcSTML-T6aNkI9WlincSE
+token=NTkzOTIyNTE5MzQyNTE0MTg3.XRU8gw.RQ-7-VcX0aJmd-lY--XDYdeMdg0
